@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service id="com.edi.npost_npost">
+  <type>webapps</type>
+  <name>NPost</name>
+  <provider>NPost</provider>
+</service>

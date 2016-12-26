@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=NPost
+Exec=qmlshell
+Icon=./NPost.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Single-Instance=true
+#X-Ubuntu-Splash-Color=#1BCC20

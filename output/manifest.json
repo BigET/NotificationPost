@@ -1,0 +1,19 @@
+{
+    "architecture": "armhf",
+    "description": "Used as a sender of notification",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "npost": {
+	    "apparmor":"NPost.apparmor",
+            "desktop":"NPost.desktop"
+        },
+        "npost-helper": {
+            "apparmor":"NPost-helper.apparmor",
+            "push-helper":"NPost-helper.json"
+        }
+    },
+    "maintainer": "Eduard Budulea <e_timotei@yahoo.com>",
+    "name": "com.edi.npost",
+    "title": "Notification Sender",
+    "version": "0.1"
+}

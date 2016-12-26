@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<application id="com.edi.npost_NPost">
+  <description>npost webapp</description>
+
+  <services>
+    <service id="com.edi.npost_NPost">
+      <description>Use the service in a webapp</description>
+    </service>
+  </services>
+
+</application>
