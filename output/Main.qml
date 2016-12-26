@@ -59,7 +59,7 @@ MainView {
             id: bodyPost
             width: parent.width - units.gu(4)
             inputMethodHints: Qt.ImhNoPredictiveText
-            placeholderText: i18n.tr("2. Write some comma separated and line separated items...")
+            placeholderText: i18n.tr("2. Write some comma separated and line separated items...\n3. Hit the message button on top right...")
             anchors {
                 horizontalCenter: parent.horizontalCenter
                 top: titluPost.bottom
